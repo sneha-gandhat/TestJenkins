@@ -9,6 +9,7 @@
 <body>
 <h1 style="text-align:center;"> Welcome to </h1>
 <center><img src="jenkins.jpe" alt="Jenkins Icon" width="150" height="150"><center/>
+<h1 style="text-align:center;"> Auto mated deployment with jenkins</h1>
 
 </body>
 </html>
